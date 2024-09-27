@@ -1,0 +1,12 @@
+{
+  "name": "chess-with-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/main.js",
+  "scripts": {
+    "dev": "node js/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
