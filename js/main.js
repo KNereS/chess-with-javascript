@@ -77,3 +77,5 @@ const getPieceName = (pieceCode) => {
 
 // initialize the function
 createChessBoard();
+
+export { initialSetup, cols, rows };
